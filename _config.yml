@@ -1,8 +1,11 @@
 # Site settings
-title: Game Developer
-email: your-email@domain.com
+title: Guilherme G. Dias
+email: guigondigamedev@gmail.com
 description: > # keep this and put description below
-  Programmer and Designer
+I'm a game designer,I graduated in the Game Design course in the University Anhembi
+Morumbi.During my time there i learned the basics of 3D modelling, animation, rigging and coding.
+I have worked on Crystal Chasers League as Quality Assurance,Game Designer, Level Designer, Level
+Editor and Document Editor.
 url: "https://yourdomain.com" # the base hostname & protocol for your site
 linkedin_url: "https://www.linkedin.com/in/gamingportfolio"
 github_username: gamingportfolio
