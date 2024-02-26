@@ -6,10 +6,10 @@ I'm a game designer,I graduated in the Game Design course in the University Anhe
 Morumbi.During my time there i learned the basics of 3D modelling, animation, rigging and coding.
 I have worked on Crystal Chasers League as Quality Assurance,Game Designer, Level Designer, Level
 Editor and Document Editor.
-url: "https://yourdomain.com" # the base hostname & protocol for your site
-linkedin_url: "https://www.linkedin.com/in/gamingportfolio"
-github_username: gamingportfolio
-twitter_username: gamingportfolio
+url: Guigondi/gamingportfolio.github.io
+linkedin_url: https://www.linkedin.com/in/guilherme-g-dias/
+
+
 footer_text: "This site uses <a href='https://github.com/gamingportfolio/urban-theme-portfolio'>urban-theme (portfolio)</a>."
 
 # Build settings
